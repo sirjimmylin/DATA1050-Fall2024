@@ -1,2 +1,4 @@
-SELECT physician_id
-FROM alerts;
+SELECT DISTINCT
+    (physician_id)
+FROM
+    alerts;
