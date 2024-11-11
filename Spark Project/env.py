@@ -1,2 +1,3 @@
 import os
-os.system('python -m venv data1050')
+print(os.path.exists('data1050'))
+
