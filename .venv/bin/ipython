@@ -1,4 +1,4 @@
-#!/Users/jimmylin/Desktop/DATA1050-Fall2024/.venv/bin/python
+#!/Users/jimmylin/Documents/GitHub/DATA1050-Fall2024/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
